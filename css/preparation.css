@@ -1,0 +1,18 @@
+.recipe-title {
+    font-size: 2.5rem;
+    margin: 20px auto 20px auto;
+    text-align: left;
+}
+
+.recipe-description {
+    color: gray;
+    margin: auto auto 20px auto;
+    padding: auto 20px;
+}
+
+.preparation-time {
+    background-color: rgb(248, 234, 235);
+    padding: 20px;
+    border-radius: 6px;
+    margin: auto 20px auto auto;
+}
