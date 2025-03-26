@@ -1,0 +1,14 @@
+.instructions {
+    margin: 40px 0 20px 0;
+}
+
+.instructions-list {
+    margin: 20px auto 20px auto;
+    padding: 0 0 0 16.5px;
+}
+
+.instructions-list li {
+    margin: 6px;
+    line-height: 20px;
+    padding: 0 0 0 20px ;
+}

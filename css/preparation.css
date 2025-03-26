@@ -14,5 +14,19 @@
     background-color: rgb(248, 234, 235);
     padding: 20px;
     border-radius: 6px;
-    margin: auto 20px auto auto;
+    margin: 30px auto 30px auto;
 }
+
+.recipe-preparation {
+    font-size: 1.2rem;
+}
+
+.recipe-preparation {
+    color: purple;
+}
+
+.describe-preparation li{
+    padding: 0 0 0 20px;
+    line-height: 30px;
+}
+

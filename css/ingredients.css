@@ -1,0 +1,11 @@
+.ingredients-list {
+    margin: 20px auto 20px auto;
+    padding: 0 0 0 6px;
+}
+
+.ingredients-list li {
+    margin: 20px;
+    line-height: 10px;
+    padding: 0 0 0 20px ;
+}
+
